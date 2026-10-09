@@ -88,7 +88,7 @@ Dropout was used during training to reduce overfitting by randomly disabling a p
 
 The following plot shows accuracy across training epochs:
 
-![Training and Validation Accuracy by Epoch](output1.png)
+![Training and Validation Accuracy by Epoch](output1.jpg)
 
 > Place `output1.png` in the same directory as `README.md` to display it on GitHub.
 
